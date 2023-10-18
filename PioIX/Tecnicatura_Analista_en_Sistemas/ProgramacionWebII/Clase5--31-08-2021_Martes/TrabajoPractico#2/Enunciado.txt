@@ -1,0 +1,26 @@
+==>>> Practico "etapa 1" con los 4 iconos de la derecha 
+
+ 1.- copiar el archivo con la definicion de las letra
+ 2.- armar el archivo estilo.css con la creacion de la nueva letra
+      -abrir un editor ascii - note pad 
+	  -escribis la definicion de la letra 
+	  -"guardar como" o "save as" nombre del archivo 
+	       estilo.css
+	  -tiene que estar en la misma carpeta que el html 
+	  
+ 3.- agregar en el html , la insercion del css con la defincion de la letra 
+ 4.- reemplazar por <p> y la letra que corresponda 
+      Y youtbe 
+	  F facebook
+	  I instagram
+	  T twiter 
+ 
+ 
+5.- insertar un css file
+
+  <link rel="stylesheet" id="wp-block-library-css" href="styletest02.css" type="text/css" media="all">
+  
+  
+6.- armar dos archivos, .html y .css 
+
+7.- colocar el resto de las palabras con el tipo de letra que corresponda. Incorporando el tipo de letra Poppins, en el aula virtual se encuentra el aechivo woff con la definicion de la letra. 

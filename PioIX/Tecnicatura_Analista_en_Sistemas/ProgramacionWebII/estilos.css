@@ -1,0 +1,41 @@
+body {
+    background-color: #f7f8f8;
+};
+
+.bordeTitulo {
+    padding-top: 40px;
+    padding-left: 24px;
+    padding-bottom: 40px;
+    padding-right: 24px;
+}
+
+.h1 {
+    color: black;
+    font-family:  'Playfair Display', serif;
+    font-size: 46px;
+};
+
+.about {
+    display: inline-block;
+}
+
+.barraNegra {
+    position: fixed;
+    color: #f7f8f8;
+    height: 50px;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-color: black;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+
+.hipervinculos {
+    display: inline-block;
+    font-family: 'Poppins';
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}

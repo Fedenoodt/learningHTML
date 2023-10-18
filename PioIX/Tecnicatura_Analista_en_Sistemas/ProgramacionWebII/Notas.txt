@@ -1,0 +1,217 @@
+  -Clase #1: 10-08-2021_Martes:
+
+Hoy se empezó mencionando temas importantes, como es el web hosting, o los servidores, dos temas muy interesantes.
+Los port, que yo tenia dudas, es para hacer "canales" para transmitir distintos tipos de datos.
+Después nos charló sobre el tema de los dominios.
+
+Vamos a freenom para hacer el nombre de dominio, enviarle un mail al profe con el mismo, y el da lugar para que los alumnos de segundo año, hagan un host con mail/nombre y contraseña, para que nosotros hagamos los trabajos.
+
+Freenom: "https://www.freenom.com/es/index.html"
+
+El profe dejó un trabajo...
+
+Trabajo practico nro 1
+
+
+Abrir la pagina web en:
+  https://demo.tagdiv.com/newspaper_classic_pro/2019/09/10/td-post-making-family-out-of-friends/#
+
+
+Etapa 1:
+
+ investigar el ancho , largo, color y demas caracteristicas de:
+ 
+ About, Contact, classic, facebook, instagram, twitter, lupa, barra negra,
+ Home, Life, Family, Travel, Inspirational
+ 
+Entrega: 
+  Construir un archivo de texto, con las caracteristicas de cada uno de los elementos hmtl previos.
+
+
+
+Etapa 2:
+
+Usamos los siguientes valores de T
+
+Etapa 2:
+
+Usamos los siguientes valores de Top y left con un ancho del body de 830px
+
+
+valores de top 
+  about 50,  barra negra 112,  classic 40,  twitter 48,  home 137
+
+valores de left
+ about 20, contact 82, classic 350, twirrer 750, lupa 780, instagram 715,
+ facebok 680, inspirational 540, travel 440, family 335, life 255, home 174
+
+objetos html a usar 
+  div,  p,  img
+
+Estilos a usar 
+ position, width, height, left, top, backgroundcolor, fontfamily, fontsize
+
+
+
+Armar la pagina con los elemen
+numerados en la etapa 1. Se puede armar en donbosco.ga o en donde se sientan mas comodos.
+
+Entrega: 
+  Los archivos html y css necesarios.
+
+_______________________________________________________________________
+
+Home
+    color: #b5b5b5
+    fuente: poppins
+    vertical-align: middle
+    font-size: 16px !important;
+    font-weight: 600 !important;
+
+Igual que Life, Family, Travel, e Inspirational.
+
+About Us y Contact
+    color: #111
+    Fuentes y tamaños iguales que arriba
+
+Classic
+    color: #222
+    fuente: Playfair Display
+    font-size: 46px
+    ES UN TITULO
+
+Facebook, Twitter e instagram
+    color: #000000
+    fuente: 'newspaper'
+<<<<<<< HEAD
+    tamaño:
+
+
+
+  -Clase #2: 17-08-2021_Martes:
+
+Clase Perdida
+
+  -Clase #4: 24-08-2021_Martes:
+
+Hoy fue una clase muy aleatoria, estuve festejando el cumpleaños de Sole, y por lo que pude escuchar, se estuvo ordenando todo el asunto de los dominios, y trabajaron un poco.
+
+  -Clase #5: 31-08-2021_Martes:
+
+Hoy, Nico nos ayudó a ver que es lo que está pasando:
+
+"de la página que teníamos de referencia ( https://demo.tagdiv.com/newspaper_classic_pro/ )
+Teníamos que poder identificar los atributos de cada zona (por ejemplo, donde está ubicada cada cosa, su tamaño, color, etc)
+
+con esos datos, teníamos que crear cinco archivos html donde cada uno representaba una "sección" de la pag (Las secciones serían 
+Home, Travel, Life, etc, que son las que aparecen ahí) Las únicas dos diferencias que van a tener esos 5 html entre sí es que, 
+por ejemplo, el html "Home" va a tener la palabra home mas clara (el color es el que tomamos de referencia en el primer punto), 
+y abajo va a tener una imagen random (igual si querés podés usar las que aparecen en la pag).
+
+Cada html va a tener su sección mas clarita y una imagen. el resto todo EXACTAMENTE IGUAL.
+
+Para qué? Para que cuando veas los 5 html "parezca" que solo cambia el color de la seccion y las fotos como si pasaras el mouse 
+por encima de las mismas. (por las dudas aclaro que las imagenes tienen que tener exactamente las mismas medidas)
+
+Una vez que tengas eso, tenés que lograr que las secciones, cuando las clickees, se redireccione a la que clickeas
+
+pd: si no entendes algo decime, no puedo mandar audio porque estoy con la clase
+
+pero para que te des una idea, y si necesitas una mano copiando atributos, te paso lo que hice yo"
+
+Después de agradecerle la dedicación de explicarme, el profe aclaró que el tema de aprender a hacer isologos con letras, lo delegó a cada uno de nosotros, y nos mostró como se 
+puede cambiar el texto de una página (desde lo visual) para que halla letras con isologo.
+
+METADATA: El triángulo del menú desplegable, está en sans-serif, esa fuente.
+
+En la clase del día de la fecha, hay información de como se hace la web de las cinco páginas, hay que mirarla y seguir esa directiva.
+
+  -Clase #6: 07-09-2021_Martes:
+
+Hoy arrancamos con la pauta del profesor, de revisar el estado 
+de los prácticos 1 y 2, enseñando un tema nuevo.
+
+Uno de los temas nuevos es un "Evento". Básicamente los eventos 
+son acciones o tareas que se ejecutan en un programa. 
+Usualmente son ejecutadas por objetos, personas, u objetos 
+controlados por personas.
+
+El segundo práctico, lo que pide es desarrollar funciones "Inteligentes" con JavaScript en los 5 HTML realizados, y que en la página figuren esos cambios.
+
+--Lapso de las vacaciones de Primavera: Clases 7 a 9.--
+
+  -Clase #10: 12-10-2021_Martes:
+
+Hoy estuvimos revisando la situación. Y nos paramos en resolver primero el TP 1.
+Esa es la consigna que nos dió, y el próximo Viernes, va a dar una clase de Soporte a segundo año, en...
+
+(No title)
+Tuesday, October 12 · 5:30 – 7:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/idz-gmot-ada
+
+  -Clase #11: 19-10-2021_Martes:
+
+El Profesor nos envió un archivo, para que analizemos que pasa en cada uno de los casos. 
+Al final de ese analisis, abrir estos en un editor ASCII e intentar entender como funcionan 
+cada una de las sentencias de JavaScript.
+
+  1.- recibir correo
+  2.- descompactar
+  3.- ejecutar en chrome cada uno de los archivos html 
+  4.- tomar nota de que ocurre, y en que orden en cada archivos
+  5.- abrir los archivos con un editor ascii, y intentar entender como funciona cada una de las sentencias javascript porque 
+  6.- escribir las conclusiones  
+
+  El Iframe sirve para meter páginas web dentro de otras.
+
+  Las formas del caso 1 y 4 son útiles para hacer el TP 2
+
+  -Clase #12: 26-10-2021_Martes:
+
+El profe pide con urgencia para el martes que viene mis dos trabajos.
+En eso hay que estar después del Jueves, después de ver objetos. Y este miercoles no experimetal, se va a volver uno.
+El profe pidió hacer drag an drop de un elemento de internet, y capturar una imagen, pero eso es para trabajar.
+
+Con respecto a este anuncio muiltimateria, si y solo si se resuelve esto bien, el Lunes se condecora con una licencia justificada.
+
+HORA DE MOVERSE.
+
+Dato de color. JavaScript es un lenguaje creado para que sea simple, y con solo dos o tres reglas se pueda manejar.
+
+Para mover un elemento, se usa la funcion "elemento".draggable, en True, y si usas .ondragover=function(ev)
+                                                                                   (ev){ev.preventDefault()} lográs que el elemento se mueva.
+
+Las diferencias entre un drag y un draggstart es que en ondraggstart se pone al final el ID del elemento.
+
+El profe nos va a pasar un correo con todo esto, cuando esté, lo pego acá.
+
+  -Clase de apoyo 29-10-2021_Viernes:
+
+El profe marcó que le haga el TP 1 para el próximo martes.
+
+  -Clase #13: 02-11-2021_Martes:
+El profesor enunció los trabajos 3 y 4.
+
+/home/pwuno/noodt/tp01
+/home/pwuno/noodt/tp02
+45.61.49.213
+
+pwuno/donbosco
+
+Es mi nueva dirección en el FileZilla.
+El profe pidió que le suba los archivos ahí, del Tp 1 en adelante.
+
+  -Clase #14: 09-10-2021_Martes:
+El desafío de hoy es llevar la webcam en directo a una página, el profe nos va a explicar como hacerlo.
+Eso va a ser el último TP. Hay que apurarse.
+
+
+  -Clase #16: 16-10-2021_Martes:
+
+El día consistió en darle miradas a el trabajo del Tetris.
+Este viernes a las 17 va a dar prioriadad a las clases de apoyo.
+Nuestra misión es llegar a ese Viernes, acomodandonos en el segundo
+trabajo, como para tener bases de charla de el mismo. Vos lo que podés
+hacer es tomar lo que creés que tenés que usar en la web de lo del CSS,
+ponerlo, y experimentar.

@@ -1,0 +1,12 @@
+Observación de cuatro archivos HTML
+
+En cada uno de los cuatro archivos, hay una estructura similar.
+
+- En la primer web, hay un mensaje de entrada, que dice "Entró", y si no cambias de ventana, o le das a aceptar, la web no se carga, y el mensaje desaparece.
+- Lo mismo pasa en la web 2.
+- En la tercera web se puede ver la página, pero aparece el mismo cartel.
+- Pero en el cuarto caso pasa lo mismo que en los dos primeros.
+
+Los cuatro scripts tienen diferencias sutíles.
+
+Los archivos abren los scripts en distinto orden. Y se puede percibir que los tiempos de carga son diferentes.
